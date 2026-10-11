@@ -1,7 +1,7 @@
 {
-  "discovered_at": "2026-10-09T05:26:06.081976Z",
+  "discovered_at": "2026-10-11T04:56:57.662174Z",
   "total_repos": 300,
-  "total_skills": 13,
+  "total_skills": 2,
   "scanned_repos": 300,
   "limits": {
     "max_repos": 300,
@@ -66,7 +66,6 @@
     "Orchestra-Research/AI-Research-SKILLs",
     "OthmanAdi/planning-with-files",
     "Othmane-Khadri/gtm-engineer-playbook",
-    "OutlineDriven/odin-claude-plugin",
     "Prat011/awesome-llm-skills",
     "QingYunA/answer-me-with-html",
     "REMvisual/claude-handoff",
@@ -153,6 +152,8 @@
     "feiskyer/claude-code-settings",
     "ferdinandobons/startup-skill",
     "filtalgo/Filtmall-Shopping-Skill",
+    "firecrawl/firecrawl-claude-plugin",
+    "firecrawl/skills",
     "flysheep-ai/education-skills",
     "foyzulkarim/skills",
     "fvadicamo/dev-agent-skills",
@@ -202,7 +203,6 @@
     "kromahlusenii-ops/ham",
     "laolaoshiren/claude-code-skills-zh",
     "latent-spaces/brag",
-    "levi-qiao/longgraph-skill",
     "levnikolaevich/claude-code-skills",
     "liustack/modlens",
     "ljagiello/ctf-skills",
@@ -270,6 +270,7 @@
     "shahshrey/awesome-claude-code-mastery",
     "shanraisshan/claude-code-best-practice",
     "shanraisshan/claude-code-hooks",
+    "sheeki03/Few-Word",
     "sickn33/agentic-awesome-skills",
     "skyf0xx/hedgehog",
     "slimeglitch/gryffin-calorai-ventus",
@@ -294,7 +295,6 @@
     "undefined-ui/second-brain-os",
     "vasilyu1983/AI-Agents-public",
     "vitaecontext/vitaecontext",
-    "wanghuan9/skilldock",
     "wanshuiyin/ALIGN-Agentic-Loop-Image-GeneratioN",
     "wanshuiyin/Anti-Autoresearch",
     "wanshuiyin/Auto-claude-code-research-in-sleep",
@@ -314,56 +314,12 @@
   ],
   "skills": [
     {
-      "repo": "code-yeongyu/oh-my-openagent",
-      "path": "packages/omo-senpi/skills/visualize/SKILL.md"
-    },
-    {
-      "repo": "gooseworks-ai/goose-skills",
-      "path": "skills/ads/capabilities/render-apple-notes-chat/SKILL.md"
-    },
-    {
-      "repo": "microsoft/power-platform-skills",
-      "path": "plugins/process-intelligence/skills/setup/SKILL.md"
-    },
-    {
-      "repo": "microsoft/power-platform-skills",
-      "path": "plugins/process-intelligence/skills/analytics/SKILL.md"
-    },
-    {
-      "repo": "microsoft/power-platform-skills",
-      "path": "plugins/process-intelligence/skills/report-issue/SKILL.md"
-    },
-    {
-      "repo": "microsoft/power-platform-skills",
-      "path": "plugins/process-intelligence/skills/derive-metric/SKILL.md"
-    },
-    {
-      "repo": "reticlehq/reticle",
-      "path": "skills/verify-language-switch/SKILL.md"
-    },
-    {
-      "repo": "scdenney/open-science-skills",
-      "path": "archive/codex/spawn/SKILL.md"
-    },
-    {
-      "repo": "scdenney/open-science-skills",
-      "path": "archive/claude/spawn/SKILL.md"
-    },
-    {
-      "repo": "scdenney/open-science-skills",
-      "path": "archive/codex/model-council-voting/SKILL.md"
-    },
-    {
-      "repo": "scdenney/open-science-skills",
-      "path": "archive/claude/model-council-voting/SKILL.md"
+      "repo": "rse/ase",
+      "path": "plugin/skills/ase-task-integrate/SKILL.md"
     },
     {
       "repo": "sickn33/agentic-awesome-skills",
-      "path": "skills/assay/SKILL.md"
-    },
-    {
-      "repo": "sickn33/agentic-awesome-skills",
-      "path": "skills/looot/SKILL.md"
+      "path": "skills/qrx/SKILL.md"
     }
   ]
 }
